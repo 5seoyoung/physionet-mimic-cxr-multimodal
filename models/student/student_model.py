@@ -1,0 +1,1 @@
+print("Student model placeholder")
